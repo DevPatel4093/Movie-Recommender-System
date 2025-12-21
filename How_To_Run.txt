@@ -1,5 +1,3 @@
-PS C:\Users\Dev Patel\Pictures\Downloads\Movie-Recommender-System>
-
 cd Movie-Rating-Prediction-Model
 
 python -m streamlit run prediction_model.py
