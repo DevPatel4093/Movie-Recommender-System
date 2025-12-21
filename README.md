@@ -20,15 +20,15 @@ A content-based movie recommender system built using Python, Pandas, and scikit-
 
 Movie-Rating-Prediction-Model/
 
-│── tmdb_5000_movies.csv
-│── tmdb_5000_credits.csv
-│── prediction_model.py
-│── movie_ratings_with_predictions.csv
-│── rate_app.py // Streamlit UI for Prediction with Posters
-│── rate.py // Streamlit UI for Prediction without Posters
-│── How_To_Run.txt
-└── README.md
-
+├── tmdb_5000_movies.csv   
+├── tmdb_5000_credits.csv                
+├── prediction_model.py                          
+├── movie_ratings_with_predictions.csv                             
+├── rate_app.py // Streamlit UI for Prediction with Posters                     
+├── rate.py // Streamlit UI for Prediction without Posters                        
+├── docker-compose-dev.yml           
+├── How_To_Run.txt                                 
+└── README.md 
 
 ## 🧠 How It Works
 
