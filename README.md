@@ -18,6 +18,7 @@ A content-based movie recommender system built using Python, Pandas, and scikit-
 
 ## 📁 Project Structure
 Movie-Rating-Prediction-Model/
+
 │── tmdb_5000_movies.csv
 │── tmdb_5000_credits.csv
 │── prediction_model.py
