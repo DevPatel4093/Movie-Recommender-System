@@ -17,9 +17,8 @@ A content-based movie recommender system built using Python, Pandas, and scikit-
 - **Data**: TMDB 5000 Movie Dataset (`tmdb_5000_movies.csv`, `tmdb_5000_credits.csv`)
 
 ## 📁 Project Structure
-
+```
 Movie-Rating-Prediction-Model/
-
 ├── tmdb_5000_movies.csv   
 ├── tmdb_5000_credits.csv                
 ├── prediction_model.py                          
@@ -29,6 +28,7 @@ Movie-Rating-Prediction-Model/
 ├── docker-compose-dev.yml           
 ├── How_To_Run.txt                                 
 └── README.md 
+```
 
 ## 🧠 How It Works
 
