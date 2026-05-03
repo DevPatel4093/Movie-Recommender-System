@@ -38,5 +38,10 @@ Movie-Rating-Prediction-Model/
 4. **Similarity Scoring**: Apply cosine similarity to identify most similar movies.
 5. **Display**: Render recommendations with posters and titles using Streamlit UI.
 
+<<<<<<< Updated upstream
 ## 👨‍💻 Author
 **Dev Patel**
+=======
+## 👤 Author
+**Dev Patel**
+>>>>>>> Stashed changes
